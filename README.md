@@ -1,14 +1,12 @@
 # International Standards for Space Omics Processing
 
-[![International Standards for Space Omics Processing](https://issop.astrobotany.com/wp-content/uploads/2023/11/cropped-ISSOP\_logo-e1699543191588-2-103x111.jpg)](https://issop.astrobotany.com/)[International Standards for Space Omics Processing](https://issop.astrobotany.com/)
-
-* [Members](https://issop.astrobotany.com/members/)
-
 [International Standards for Space Omics Processing](https://issop.astrobotany.com/)
 
 ***
 
 #### Welcome to the website for the **International Standards for Space Omics Processing**, or ISSOP, for short.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>ISSOP logo</p></figcaption></figure>
 
 #### Our Mission
 
@@ -18,9 +16,11 @@ The International Standards for Space Omics Processing (ISSOP) is a consortium o
 
 ISSOP aims to develop and iteratively refine protocol guidelines related to space omics sample processing. ISSOP currently hosts the latest protocols from various regions that each provide specific expertise collectively on our GitHub page:
 
-* [GitHub](https://github.com/ISSOP)
+* Link to [GitHub](https://github.com/ISSOP)
 
 {% @github-files/github-code-block url="https://github.com/ISSOP" %}
+
+* [Members](https://issop.astrobotany.com/members/)
 
 
 
