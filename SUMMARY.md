@@ -24,3 +24,5 @@
   * [6.5\_truseq\_total\_rna\_library\_pooling\_normalization\_qc\_v1.0](protocols/6.5\_truseq\_total\_rna\_library\_pooling\_normalization\_qc\_v1.0.md)
 * [OSDR\_meta\_analysis](osdr\_meta\_analysis/README.md)
   * [Analysis of Meta-data from NASA GeneLab](osdr\_meta\_analysis/analysis-of-meta-data-from-nasa-genelab.md)
+* [Agenda summary](agenda-summary.md)
+* [References](references.md)
