@@ -1,12 +1,22 @@
+---
+description: >-
+  Welcome to the Gitbook for the International Standards for Space Omics
+  Processing (ISSOP).
+---
+
 # International Standards for Space Omics Processing
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>ISSOP logo</p></figcaption></figure>
 
 [International Standards for Space Omics Processing](https://issop.astrobotany.com/)
 
 ***
 
-#### Welcome to the website for the **International Standards for Space Omics Processing**, or ISSOP, for short.
+####
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>ISSOP logo</p></figcaption></figure>
+{% embed url="https://issop.co/" %}
+Visit our website
+{% endembed %}
 
 #### Our Mission
 

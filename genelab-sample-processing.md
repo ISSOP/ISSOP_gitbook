@@ -1,14 +1,18 @@
+---
+description: >-
+  The NASA GeneLab Sample Processing Laboratory generates open science data from
+  spaceflight missions.
+---
+
 # GeneLab-sample Processing
 
 [![](https://github.com/ISSOP/GeneLab-sampleProcessing/raw/master/NASA\_GeneLab\_logo-2019.png)](https://github.com/ISSOP/GeneLab-sampleProcessing/blob/master/NASA\_GeneLab\_logo-2019.png)
 
 ##
 
-
-
 ### About
 
-The NASA GeneLab Sample Processing Laboratory generates open science data from spaceflight missions. Over the years, it has developed a set of standard operating procedures (SOPs) that it utilizes to generate high-quality standardized data. This repository houses these SOPs.
+Over the years, it has developed a set of standard operating procedures (SOPs) that it utilizes to generate high-quality standardized data. This repository houses these SOPs.
 
 ### Tissue Storage and Cutting
 
