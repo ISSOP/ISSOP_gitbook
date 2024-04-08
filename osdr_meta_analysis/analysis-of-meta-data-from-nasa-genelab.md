@@ -1,5 +1,5 @@
 ---
-description: Code created by Dr Richard Barker using OpenAI GPT4.0
+description: Code created by Dr Richard Barker using OpenAI GPT4.0.
 ---
 
 # Analysis of Meta-data from NASA GeneLab
@@ -36,7 +36,9 @@ The analysis of the "Organism" column reveals the following:
 
 "Mus musculus" (house mouse) is the most frequently occurring organism with 213 instances. "Homo sapiens" (human) appears 78 times. "Arabidopsis thaliana" (a model organism for plant biology) appears 62 times. There are a variety of other organisms listed with lower frequencies, such as "Microbiota" and "Rattus norvegicus" (Norway rat), among others. In total, there are 74 unique organisms or groups of organisms mentioned in the dataset. This dataset shows a diversity of organisms that are of interest in the context of the studies listed, with a clear emphasis on model organisms and humans.​
 
-Plot this data as a pie chart
+
+
+**Plot this data as a pie chart**
 
 ```
 import matplotlib.pyplot as plt
@@ -54,6 +56,8 @@ plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 plt.title('Top Organisms Distribution')
 plt.show()
 ```
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 The pie chart has been created, displaying the distribution of the top organisms within the dataset. The chart includes the ten most frequent organisms and aggregates the rest into an "Other" category for clarity.​
 
@@ -75,7 +79,7 @@ technology_over_time = arabidopsis_data.groupby('publicReleaseDateYear').agg({
 technology_summary, technology_over_time.reset_index()
 ```
 
-For the organism "Arabidopsis thaliana":
+**For the organism "**_**Arabidopsis thaliana**_**":**
 
 The most common technology platform used is Illumina, appearing 30 times out of 58 instances where the platform was specified. The most frequent technology type is RNA Sequencing (RNA-Seq), with 27 occurrences out of 62. The measurement type most often reported is transcription profiling, which is noted 52 times out of 62. When looking at the data over time:
 
@@ -177,6 +181,8 @@ plt.grid(True)
 plt.show()
 ```
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 The updated graph for "Arabidopsis thaliana" now includes regression lines of best fit for each technology type, extended five years into the future based on the "publicReleaseDate". These trend lines provide a visual extrapolation of how the use of each technology might progress if current trends continue.​
 
 ### Now repeat that process for “Mouse” data
@@ -215,6 +221,8 @@ plt.grid(True)
 plt.show()
 ```
 
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 The updated graph for "Mus musculus" (mouse) data now includes regression lines of best fit for each technology type, with these lines extended five years into the future. These trend lines offer a projection of potential future technology usage trends in mouse-related research.​
 
 ### Now repeat that process for “Human” data
@@ -252,6 +260,8 @@ plt.legend(title='Technology Type')
 plt.grid(True)
 plt.show()
 ```
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 The graph for "Homo sapiens" (human) data now includes regression lines of best fit for each technology type, extended five years into the future based on the "publicReleaseDate". These trend lines provide an extrapolated view of how the use of each technology might evolve if current trends persist in human research studies.​
 
@@ -292,6 +302,8 @@ plt.legend(title='Technology Type')
 plt.grid(True)
 plt.show()
 ```
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 The graph now features regression lines of best fit for each technology type used across all organisms, with projections extending five years into the future. This visualization offers a comprehensive look at the overall trends in technology usage in the dataset and suggests potential future directions for research across various organisms.​
 
