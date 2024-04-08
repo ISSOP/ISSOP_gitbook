@@ -26,6 +26,6 @@
   * [Analysis of Meta-data from NASA GeneLab](osdr\_meta\_analysis/analysis-of-meta-data-from-nasa-genelab.md)
 * [Agenda summary](agenda-summary.md)
 * [References](references.md)
-* [NASA Space Mission Directorate Data Management Plan Guide and requiements](nasa-space-mission-directorate-data-management-plan-guide-and-requiements/README.md)
-  * [NASA SMD Open Science and Data Management Plan Sample Template](nasa-space-mission-directorate-data-management-plan-guide-and-requiements/nasa-smd-open-science-and-data-management-plan-sample-template.md)
+* [Data Management Plan Guide](data-management-plan-guide/README.md)
+  * [NASA SMD Open Science and Data Management Plan Sample Template](data-management-plan-guide/nasa-smd-open-science-and-data-management-plan-sample-template.md)
 * [ISSOP data managment plan 2024](issop-data-managment-plan-2024.md)

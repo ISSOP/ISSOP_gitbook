@@ -4,7 +4,7 @@ description: Open Science and Data Management Plan (OSDMP) for ISSOP
 
 # ISSOP data managment plan 2024
 
-Data Management
+### Data Management
 
 The ISSOP consortium is committed to the open sharing of scientific data and metadata generated through its funded activities. All data produced will be made publicly available through established repositories and databases, adhering to the SMD policies outlined in SPD-41a.
 
@@ -23,7 +23,7 @@ Key elements of the ISSOP data management plan include:
    * Data will be shared under permissive licenses (e.g., Creative Commons) to encourage broad reuse.
    * A centralized data portal will be developed to facilitate discovery and access to ISSOP-funded datasets.
 
-Software Management
+### Software Management
 
 ISSOP-funded software developments will be managed and shared openly to enable reproducibility and further advancements in the field of space biology. The key elements of the software management plan include:
 
@@ -37,7 +37,7 @@ ISSOP-funded software developments will be managed and shared openly to enable r
    * ISSOP will work to ensure the long-term maintenance and support of critical software tools developed through its funding.
    * Community engagement and training activities will be organized to promote the adoption and continued development of ISSOP-supported software.
 
-Publication Sharing
+### Publication Sharing
 
 ISSOP is committed to the open dissemination of research findings derived from its funded activities. The publication sharing plan includes the following elements:
 

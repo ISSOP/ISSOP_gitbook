@@ -1,18 +1,19 @@
 ---
 description: >-
   We recormend you visit the NASA TOPS Open Science and Data Management Plan
-  OSS_Guidance page.
+  OSS_Guidance page. The OSDMP outlines the management and open sharing of
+  scientific information produced from SMD-funded acti
 ---
 
-# NASA Space Mission Directorate Data Management Plan Guide and requiements
-
-[https://github.com/nasa/smd-open-science-guidelines/tree/main/OSS\_Guidance](https://github.com/nasa/smd-open-science-guidelines/tree/main/OSS\_Guidance)
+# Data Management Plan Guide
 
 ## Open Science and Data Management Plan (OSDMP) Overview
 
 {% @github-files/github-code-block url="https://github.com/nasa/smd-open-science-guidelines/tree/main/OSS_Guidance" %}
 
-The OSDMP outlines the management and open sharing of scientific information produced from SMD-funded activities. It consists of the following key sections:
+[https://github.com/nasa/smd-open-science-guidelines/tree/main/OSS\_Guidance](https://github.com/nasa/smd-open-science-guidelines/tree/main/OSS\_Guidance)
+
+
 
 ### Data Management
 
