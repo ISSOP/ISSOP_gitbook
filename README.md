@@ -30,7 +30,7 @@ ISSOP aims to develop and iteratively refine protocol guidelines related to spac
 
 {% @github-files/github-code-block url="https://github.com/ISSOP" %}
 
-* [Members](https://issop.astrobotany.com/members/)
+* [Members](https://osdr.gitbook.io/issop/current-members)
 
 
 
