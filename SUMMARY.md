@@ -1,6 +1,7 @@
 # Table of contents
 
-* [International Standards for Space Omics Processing](README.md)
+* [Action plan](README.md)
+* [International Standards for Space Omics Processing](<README (1).md>)
 * [GeneLab-sample Processing](genelab-sample-processing.md)
 * [JAXA Genome Biology Lab](jaxa-genome-biology-lab.md)
 * [Current Members](current-members.md)
