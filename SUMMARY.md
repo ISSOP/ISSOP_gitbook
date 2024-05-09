@@ -32,3 +32,4 @@
 * [ISSOP data managment plan 2024](issop-data-managment-plan-2024.md)
 * [Salad Project](salad-project.md)
 * [The AstroBotany protocols](the-astrobotany-protocols.md)
+* [The big picture.](the-big-picture..md)
