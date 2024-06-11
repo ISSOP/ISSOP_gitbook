@@ -26,7 +26,7 @@ _Specify the repository(ies) that will be used to archive and provide public acc
 
 _Specify data types that are excluded from requirements to make the data publicly available and cite the relevant laws, regulations, or policies that generate the exclusion._
 
-1. **Software Management**
+2. **Software Management**
 
 _A software management plan is required for all SMD-funded activities that are expected to produce software. Here it is incorporated into the broader OSDMP. Follow any specific requirements for the software management plan that are provided by the funding solicitation or SMD Division._
 
@@ -46,7 +46,7 @@ _Specify the repository(ies) that will be used to archive software arising from 
 
 _Specify software types that are excluded from requirements to make the software publicly available and cite the relevant laws, regulations, or policies that generate the exclusion._
 
-1. **Open Science Plan**
+3. **Open Science Plan**
 
 **3.1 Publication Sharing**
 
@@ -56,6 +56,6 @@ _Describe the types of publications that are expected to be produced from the ac
 
 _Optionally, the OSDMP may include a description of additional open science activities associated with the project (if not described elsewhere in a proposal). This may include: holding scientific workshops and meetings openly to enable broad participation, providing project personnel with open science training or enablement, implementing practices that support the inclusion of broad, diverse communities in the scientific process as close to the start of research activities as possible if not described elsewhere, and contributions to or involvement in open-science communities._
 
-1. **Roles and Responsibilities**
+4. **Roles and Responsibilities**
 
 _Specify the project personnel who will ensure the implementation of the OSDMP. This may be its own section or integrated into the sections above._
