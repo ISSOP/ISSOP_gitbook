@@ -5,11 +5,10 @@ description: >-
   efforts.
 ---
 
-# Agenda summary
+# ISSOP Agenda summary
 
 ### Ongoing Projects and Initiatives
 
-* Anjali's manuscript ready to submit - confirming affiliation and submitting
 * ISSOP website updates - new domain, design, email, and Teams
 * Potential participation in iGEM (International Genetically Engineered Machine) competition
 * Protocols for human omics samples collection/preservation/processing

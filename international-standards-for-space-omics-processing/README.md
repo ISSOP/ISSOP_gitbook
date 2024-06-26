@@ -6,7 +6,7 @@ description: >-
 
 # International Standards for Space Omics Processing
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>ISSOP logo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>ISSOP logo</p></figcaption></figure>
 
 [International Standards for Space Omics Processing](https://issop.astrobotany.com/)
 
